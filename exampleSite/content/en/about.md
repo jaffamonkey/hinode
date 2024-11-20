@@ -6,27 +6,20 @@ updated: 2023-08-02
 showComments: false
 ---
 
-{{< image src="/img/logo_var.svg#logo" class="img-fluid w-50" wrapper="text-center" >}}
+Less about me personally, this is to give you an idea with my approach and thoughts on testing.
 
-{{< card-group align="center" class="border-0" padding="3" >}}
-    {{< card title="Bootstrap framework" icon="fab bootstrap" >}}
-        Build fast, responsive sites with Bootstrap 5. Easily customize your site with the source Sass files.
-    {{< /card >}}
-    {{< card title="Full text search" icon="fas magnifying-glass" >}}
-        Search your site with FlexSearch, a full-text search library with zero dependencies.
-    {{< /card >}}
-    {{< card title="Development tools" icon="fas code" >}}
-        Use Node Package Manager to automate the build process and to keep track of dependencies.
-    {{< /card >}}
-{{< /card-group >}}
+I have been working in area of testing and quality for over 25 years. Do I enjoy it? Well, my head does like puzzles to work out! The challenges of testing provide technical and human puzzles. I am very technically-focused, but also adept with teams.  Communication is key in testing, and that is something I have carried from contract to contract.
 
-Additional features include:
+I started out in the tail of of the 1990's, when Waterfall was still common and testing was judged by the weight of arch-lever files (only half-joking).  When I jumped on Agile train in 2002, I found more inspiration in testing - not least from opensource world. As technical demands on testers grew in the 00's, I grew with them. 
 
-* Switching between light mode and dark mode
-* Support for multiple languages
-* Reusable Bootstrap components through configurable shortcodes and partials
-* Versioned documentation, including sidebar navigation and version switcher
-* Responsive image handling for multiple screen sizes and resolutions
-* Optimized search results, scoring 100 points for SEO on [PageSpeed Insights]({{% param "links.pagespeed" %}})
-* Secure by default, scoring A+ on [Mozilla Observatory test]({{% param "links.observatory" %}})
-{.tickmark}
+I learnt early on to take a lean approach to testing - including strategy, reporting and test frameworks. I immersed myself further into devops, working in parallel with development by following their tools process and pace. Until a test is in CI/CD pipelines, testing does not have a firm foothold.
+
+ From toxic corporations to fresh startups, I have learnt that testing can be improved and have positive effect on the rest of the project, whatever the challenges.
+
+## Key skills
+* Quality Engineering from Design to Production.
+* Test Engineering in CI/CD pipelines.
+* Performance testing to ensure apps are both secure and stable./li>
+* Test Architecture/Frameworks
+* Tester Coaching
+* Accessibility reviews and automation
