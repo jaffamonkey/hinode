@@ -1,12 +1,10 @@
 ---
 title: About
-description: Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5.
-date: 2022-04-11
-updated: 2023-08-02
+description: About me
+date: 2024-04-11
+updated: 2024-08-02
 showComments: false
 ---
-
-Less about me personally, this is to give you an idea with my approach and thoughts on testing.
 
 I have been working in area of testing and quality for over 25 years. Do I enjoy it? Well, my head does like puzzles to work out! The challenges of testing provide technical and human puzzles. I am very technically-focused, but also adept with teams.  Communication is key in testing, and that is something I have carried from contract to contract.
 
