@@ -6,12 +6,12 @@
 [[sample]]
   name = "Blog"
   pageRef = "/blog/"
-  weight = 10
+  weight = 20
 
 [[sample]]
   name = "Services"
   pageRef = "/services/"
-  weight = 20
+  weight = 30
 
 [[sample]]
   name = "Quality engineering"
