@@ -305,8 +305,8 @@ As an example, the following shortcodes render links in different formats.
 - {{</* link url="/services/quality-engineering" /*/>}}
 - {{</* link url="../services/quality-engineering" case=false /*/>}}
 - {{</* link "about" /*/>}}
-- {{</* link "/fr/a-propos/" /*/>}}
-- {{</* link "/fr/a-propos" >}}About (French){{< /link */>}}
+<!-- - {{</* link "/fr/a-propos/" /*/>}}
+- {{</* link "/fr/a-propos" >}}About (French){{< /link */>}} -->
 - {{</* link "#image" /*/>}}
 - {{</* link "components/#map" /*/>}}
 

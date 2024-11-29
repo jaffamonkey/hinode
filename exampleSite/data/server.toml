@@ -41,15 +41,6 @@
 # toml-docs-end server-config
 
 # toml-docs-start server-custom-404
-[[redirects]]
-	from = '/fr/*'
-	to = '/fr/404.html'
-	status = 404
-
-[[redirects]]
-	from = '/nl/*'
-	to = '/nl/404.html'
-	status = 404
 
 [[redirects]]
 	from = '/en/*'
