@@ -16,7 +16,7 @@ caption = "I work on everything coding and tweet developer memes"
 [en.params.sections.blog]
 reference = "More Posts"
 [en.params.sections.services]
-reference = "More Ssrvices"
+reference = "More Services"
 
 [nl]
 languageName = "Nederlands"

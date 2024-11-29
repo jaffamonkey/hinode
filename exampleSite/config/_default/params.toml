@@ -120,7 +120,7 @@
         homepage = 3
         separator = true
     [sections.services]
-        title = "Ssrvices"
+        title = "Services"
         layout = "card"
         sort = "title"
         reverse = false
