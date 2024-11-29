@@ -292,10 +292,10 @@ Utilisez le shortcode `file` pour afficher et mettre en évidence le contenu com
 - {{</* link name=hinode cue=true tab=true >}}Lien nommé s'ouvrant dans un nouvel onglet avec icône{{< /link */>}}
 - {{</* link hinode /*/>}}
 - {{</* link href="https://developer.mozilla.org" >}}Lien externe{{< /link */>}}
-- {{</* link "./services/another-project" >}}Lien interne avec titre{{< /link */>}}
-- {{</* link url="services/another-project" /*/>}}
-- {{</* link url="/services/another-project" /*/>}}
-- {{</* link url="../services/another-project" case=false /*/>}}
+- {{</* link "./services/quality-engineering" >}}Lien interne avec titre{{< /link */>}}
+- {{</* link url="services/quality-engineering" /*/>}}
+- {{</* link url="/services/quality-engineering" /*/>}}
+- {{</* link url="../services/quality-engineering" case=false /*/>}}
 - {{</* link "about" /*/>}}
 - {{</* link "/en/about/" /*/>}}
 - {{</* link "/en/about" >}}About (Anglais){{< /link */>}}
