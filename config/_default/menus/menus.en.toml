@@ -34,25 +34,25 @@
 
 [[sample]]
   name = "Services"
-  pageRef = "/projects/"
+  pageRef = "/services/"
   weight = 20
 
 [[sample]]
   name = "Quality engineering"
-  pageRef = "/projects/quality engineering/"
-  parent = "Projects"
+  pageRef = "/services/quality engineering/"
+  parent = "Ssrvices"
   weight = 1
 
 [[sample]]
   name = "Accessibility audit"
-  pageRef = "/projects/accessibility-audit/"
-  parent = "Projects"
+  pageRef = "/services/accessibility-audit/"
+  parent = "Ssrvices"
   weight = 2
 
 [[sample]]
   name = "Testing on-demand"
-  pageRef = "/projects/testing-on-demand/"
-  parent = "Projects"
+  pageRef = "/services/testing-on-demand/"
+  parent = "Ssrvices"
   weight = 2
 
 # toml-docs-end sample-navigation

@@ -7,7 +7,7 @@ tags: ["testing"]
 icon: fas rocket
 ---
 
-My career has spanned many industries and projects, and has left me with a pragmatic edge to my services. 
+My career has spanned many industries and services, and has left me with a pragmatic edge to my services. 
 
 > I can offer quality engineering and testing services on a daily, weekly or monthly basis.
 

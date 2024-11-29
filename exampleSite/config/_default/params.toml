@@ -30,7 +30,7 @@
     checkVersion = false
 
 [home]
-    sections = ["blog", "projects"]
+    sections = ["blog", "services"]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -119,8 +119,8 @@
         style = "border-0 card-zoom card-body-margin"
         homepage = 3
         separator = true
-    [sections.projects]
-        title = "Projects"
+    [sections.services]
+        title = "Ssrvices"
         layout = "card"
         sort = "title"
         reverse = false

@@ -300,10 +300,10 @@ As an example, the following shortcodes render links in different formats.
 - {{</* link hinode /*/>}}
 - {{</* link href="https://developer.mozilla.org" >}}External link{{< /link */>}}
 - {{</* link href="https://demo.gethinode.com/en/about/" >}}Surrogate external link{{< /link */>}}
-- {{</* link "./projects/another-project" >}}Internal link with title{{< /link */>}}
-- {{</* link url="projects/another-project" /*/>}}
-- {{</* link url="/projects/another-project" /*/>}}
-- {{</* link url="../projects/another-project" case=false /*/>}}
+- {{</* link "./services/another-project" >}}Internal link with title{{< /link */>}}
+- {{</* link url="services/another-project" /*/>}}
+- {{</* link url="/services/another-project" /*/>}}
+- {{</* link url="../services/another-project" case=false /*/>}}
 - {{</* link "about" /*/>}}
 - {{</* link "/fr/a-propos/" /*/>}}
 - {{</* link "/fr/a-propos" >}}About (French){{< /link */>}}
