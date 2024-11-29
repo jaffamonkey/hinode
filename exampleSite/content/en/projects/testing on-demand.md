@@ -1,10 +1,10 @@
 ---
-title: "Testing on-demand"
-date: 2018-11-18T12:33:46+10:00
-draft: false
-featured: true
-weight: 3
-summary: "You can hire my services from a day to 2 weeks, to help you with a testing effort."
+author: Mark Dumay
+title: Testing on-demand
+date: 2024-07-15
+description: You can hire my services from a day to 2 weeks, to help you with a testing effort.
+tags: ["testing"]
+icon: fas rocket
 ---
 
 My career has spanned many industries and projects, and has left me with a pragmatic edge to my services. 
